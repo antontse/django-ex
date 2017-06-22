@@ -1,6 +1,6 @@
 from django.contrib import admin
 
-from .models import PageView
+from .models import PageView, Question
 
 # Register your models here.
 
